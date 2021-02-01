@@ -1,0 +1,2 @@
+MAINNET = "main"
+TESTNET = "test"
